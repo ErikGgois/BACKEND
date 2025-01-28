@@ -8,4 +8,4 @@ if (resto == 0){
    else{
     console.log
    }
-  }
+  }    
