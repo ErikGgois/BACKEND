@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')();
 
-var ano = prompt('Digite aqui o ano: ')
+var ano = prompt('Digite aqui o ano que deseja: ')
 
 if (ano % 4 == 0) {
     if (ano % 100 == 0) {
