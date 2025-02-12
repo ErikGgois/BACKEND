@@ -3,7 +3,7 @@ const entradaSaida = require('./EntradaSaida.js')
 
 const usuario1 = new usuario("Roberval","roberval@bol.com","senhadificil123")
 
-const entradaSaida = require('./EntradaSaida.js');
+
 const ES = new entradaSaida();
 
 usuario1.nome= "roberval da silva"

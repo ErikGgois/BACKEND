@@ -1,6 +1,6 @@
 class FuncoesES{
     constructor(){
-        const prompt = require('prompt-sync')();
+        this.prompt = require('prompt-sync')();
     }
     entrada(mensagem){
         return this.prompt(mensagem+": ");
